@@ -1,6 +1,7 @@
 ### Hi there 👋, My name is Shariful Haque
 #### I am professional Full stack developer
-![I am professional Full stack developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+![github profile](https://github.com/user-attachments/assets/aeb95400-93bf-45e6-996f-dc68c9400588)
 
 Skilled Web Developer proficient in HTML, CSS, Bootstrap, JavaScript and PHP, Laravel. Expertise in creating responsive, dynamic websites. Strong problem-solving skills and a passion for continuous learning and innovation.
 
